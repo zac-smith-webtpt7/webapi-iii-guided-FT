@@ -2,7 +2,10 @@
 
 ## Jargon to review
 
-Seperation of concerns (READ)
+Separation of concerns (READ)
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+_We do not write code for the computer, code is a communication device, a way to reveal our intentions to the next developer_
 
 **EVERYTHING IS MIDDLEWARE**
 
