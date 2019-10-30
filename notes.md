@@ -21,3 +21,5 @@ _We do not write code for the computer, code is a communication device, a way to
 - local: use for a specific set of routes only
 
 order matters, it goes top to bottom, left to right
+
+[YouTube of this lecture](https://www.youtube.com/watch?v=1aNyT6PNt8E&feature=youtu.be)
