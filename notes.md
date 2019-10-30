@@ -18,6 +18,6 @@ _We do not write code for the computer, code is a communication device, a way to
 ## Types (based on hot it's being used)
 
 - global: runs on every request
--
+- local: use for a specific set of routes only
 
 order matters, it goes top to bottom, left to right
