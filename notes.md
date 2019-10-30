@@ -1,5 +1,9 @@
 # Middleware
 
+## Jargon to review
+
+Seperation of concerns (READ)
+
 **EVERYTHING IS MIDDLEWARE**
 
 ## Types of middlware
@@ -10,4 +14,7 @@
 
 ## Types (based on hot it's being used)
 
-- order matters, it goes top to bottom, left to right
+- global: runs on every request
+-
+
+order matters, it goes top to bottom, left to right
